@@ -1,0 +1,8 @@
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\bin\Debug\MyStringFormatter.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\bin\Debug\MyStringFormatter.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\obj\Debug\MyStringFormatter.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\obj\Debug\MyStringFormatter.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\obj\Debug\MyStringFormatter.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\bin\Debug\nunit.framework.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\bin\Debug\nunit.framework.xml
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyStringFormatter\obj\Debug\MyStringFormatter.csproj.CoreCompileInputs.cache

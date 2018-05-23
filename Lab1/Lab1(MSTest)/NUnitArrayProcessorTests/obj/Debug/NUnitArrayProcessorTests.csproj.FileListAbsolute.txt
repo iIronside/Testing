@@ -1,0 +1,10 @@
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\obj\Debug\NUnitArrayProcessorTests.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\obj\Debug\NUnitArrayProcessorTests.csproj.CoreCompileInputs.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\NUnitArrayProcessorTests.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\NUnitArrayProcessorTests.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\MyArrayProcessor.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\nunit.framework.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\MyArrayProcessor.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\bin\Debug\nunit.framework.xml
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\obj\Debug\NUnitArrayProcessorTests.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitArrayProcessorTests\obj\Debug\NUnitArrayProcessorTests.pdb

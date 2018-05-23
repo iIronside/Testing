@@ -1,0 +1,10 @@
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\obj\Debug\NUnitStringFormatterTests.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\obj\Debug\NUnitStringFormatterTests.csproj.CoreCompileInputs.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\NUnitStringFormatterTests.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\NUnitStringFormatterTests.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\MyStringFormatter.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\nunit.framework.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\MyStringFormatter.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\bin\Debug\nunit.framework.xml
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\obj\Debug\NUnitStringFormatterTests.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\NUnitStringFormatterTests\obj\Debug\NUnitStringFormatterTests.pdb

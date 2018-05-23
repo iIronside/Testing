@@ -1,0 +1,6 @@
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\bin\Debug\MyArrayProcessor.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\bin\Debug\MyArrayProcessor.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\obj\Debug\MyArrayProcessor.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\obj\Debug\MyArrayProcessor.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\obj\Debug\MyArrayProcessor.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyArrayProcessor\obj\Debug\MyArrayProcessor.csproj.CoreCompileInputs.cache

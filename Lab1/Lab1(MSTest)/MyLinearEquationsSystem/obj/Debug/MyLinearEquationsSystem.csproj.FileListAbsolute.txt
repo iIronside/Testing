@@ -1,0 +1,6 @@
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\bin\Debug\MyLinearEquationsSystem.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\bin\Debug\MyLinearEquationsSystem.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\obj\Debug\MyLinearEquationsSystem.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\obj\Debug\MyLinearEquationsSystem.dll
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\obj\Debug\MyLinearEquationsSystem.pdb
+E:\My documents\Тестирование ПО\Lab1\Lab1(MSTest)\MyLinearEquationsSystem\obj\Debug\MyLinearEquationsSystem.csproj.CoreCompileInputs.cache

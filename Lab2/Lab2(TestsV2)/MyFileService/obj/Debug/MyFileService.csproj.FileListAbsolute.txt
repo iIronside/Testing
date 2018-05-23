@@ -1,0 +1,6 @@
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\bin\Debug\MyFileService.dll
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\bin\Debug\MyFileService.pdb
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\obj\Debug\MyFileService.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\obj\Debug\MyFileService.csproj.CoreCompileInputs.cache
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\obj\Debug\MyFileService.dll
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MyFileService\obj\Debug\MyFileService.pdb

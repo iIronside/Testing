@@ -1,0 +1,6 @@
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\bin\Debug\MySqlQueryPreparator.dll
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\bin\Debug\MySqlQueryPreparator.pdb
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\obj\Debug\MySqlQueryPreparator.csprojResolveAssemblyReference.cache
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\obj\Debug\MySqlQueryPreparator.csproj.CoreCompileInputs.cache
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\obj\Debug\MySqlQueryPreparator.dll
+E:\My documents\Тестирование ПО\Lab2\Lab2(TestsV2)\MySqlQueryPreparator\obj\Debug\MySqlQueryPreparator.pdb
